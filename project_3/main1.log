@@ -1,0 +1,255 @@
+ 2023-02-19 11:34:47,465 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 11:34:47,469 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 11:35:06,517 INFO werkzeug  * Detected change in 'c:\\Users\\KALPANA\\OneDrive\\Desktop\\Projects\\project_3\\amazon.py', reloading
+ 2023-02-19 11:35:07,990 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 11:35:07,992 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 11:35:12,737 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+ 2023-02-19 11:35:12,737 INFO werkzeug [33mPress CTRL+C to quit[0m
+ 2023-02-19 11:35:12,738 INFO werkzeug  * Restarting with stat
+ 2023-02-19 11:35:13,811 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 11:35:13,811 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 11:35:19,014 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:35:19] "GET / HTTP/1.1" 200 -
+ 2023-02-19 11:35:19,383 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:35:19] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:35:36,928 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:35:36] "POST /review HTTP/1.1" 200 -
+ 2023-02-19 11:35:36,944 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:35:36] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:36:23,911 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+ 2023-02-19 11:36:23,911 INFO werkzeug [33mPress CTRL+C to quit[0m
+ 2023-02-19 11:36:23,916 INFO werkzeug  * Restarting with stat
+ 2023-02-19 11:36:25,173 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 11:36:25,180 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 11:36:32,653 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:36:32] "GET / HTTP/1.1" 200 -
+ 2023-02-19 11:36:34,278 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:36:34] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:36:34,401 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:36:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ 2023-02-19 11:37:11,389 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:37:11] "POST /review HTTP/1.1" 200 -
+ 2023-02-19 11:37:11,413 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:37:11] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:37:41,383 INFO werkzeug  * Detected change in 'c:\\Users\\KALPANA\\OneDrive\\Desktop\\Projects\\project_3\\amazon.py', reloading
+ 2023-02-19 11:37:41,726 INFO werkzeug  * Restarting with stat
+ 2023-02-19 11:37:54,591 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+ 2023-02-19 11:37:54,592 INFO werkzeug [33mPress CTRL+C to quit[0m
+ 2023-02-19 11:37:54,595 INFO werkzeug  * Restarting with stat
+ 2023-02-19 11:37:56,357 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 11:37:56,364 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 11:38:06,889 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:38:06] "GET / HTTP/1.1" 200 -
+ 2023-02-19 11:38:07,414 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:38:07] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:38:33,941 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:38:33] "POST /review HTTP/1.1" 200 -
+ 2023-02-19 11:38:33,962 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:38:33] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:39:16,700 INFO werkzeug  * Detected change in 'c:\\Users\\KALPANA\\OneDrive\\Desktop\\Projects\\project_3\\amazon.py', reloading
+ 2023-02-19 11:39:17,068 INFO werkzeug  * Restarting with stat
+ 2023-02-19 11:39:19,372 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 11:39:19,378 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 11:39:27,598 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+ 2023-02-19 11:39:27,599 INFO werkzeug [33mPress CTRL+C to quit[0m
+ 2023-02-19 11:39:27,601 INFO werkzeug  * Restarting with stat
+ 2023-02-19 11:39:29,328 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 11:39:29,336 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 11:39:36,294 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:39:36] "GET / HTTP/1.1" 200 -
+ 2023-02-19 11:39:36,531 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:39:36] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:40:01,975 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:40:01] "POST /review HTTP/1.1" 200 -
+ 2023-02-19 11:40:01,988 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:40:01] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:40:29,266 INFO werkzeug  * Detected change in 'c:\\Users\\KALPANA\\OneDrive\\Desktop\\Projects\\project_3\\amazon.py', reloading
+ 2023-02-19 11:40:29,412 INFO werkzeug  * Restarting with stat
+ 2023-02-19 11:40:30,979 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 11:40:30,983 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 11:40:39,536 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+ 2023-02-19 11:40:39,536 INFO werkzeug [33mPress CTRL+C to quit[0m
+ 2023-02-19 11:40:39,538 INFO werkzeug  * Restarting with stat
+ 2023-02-19 11:40:40,414 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 11:40:40,414 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 11:40:49,418 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:40:49] "GET / HTTP/1.1" 200 -
+ 2023-02-19 11:40:49,787 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:40:49] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:41:25,339 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:41:25] "POST /review HTTP/1.1" 200 -
+ 2023-02-19 11:41:25,353 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:41:25] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:42:12,563 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:42:12] "POST /review HTTP/1.1" 200 -
+ 2023-02-19 11:42:12,577 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:42:12] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:42:29,275 INFO werkzeug  * Detected change in 'c:\\Users\\KALPANA\\OneDrive\\Desktop\\Projects\\project_3\\amazon.py', reloading
+ 2023-02-19 11:42:29,674 INFO werkzeug  * Restarting with stat
+ 2023-02-19 11:42:39,488 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+ 2023-02-19 11:42:39,489 INFO werkzeug [33mPress CTRL+C to quit[0m
+ 2023-02-19 11:42:39,492 INFO werkzeug  * Restarting with stat
+ 2023-02-19 11:42:40,758 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 11:42:40,767 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 11:42:48,127 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:42:48] "GET / HTTP/1.1" 200 -
+ 2023-02-19 11:42:48,593 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:42:48] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:43:16,017 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:43:16] "POST /review HTTP/1.1" 200 -
+ 2023-02-19 11:43:16,051 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:43:16] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:43:42,760 INFO werkzeug  * Detected change in 'c:\\Users\\KALPANA\\OneDrive\\Desktop\\Projects\\project_3\\amazon.py', reloading
+ 2023-02-19 11:43:42,917 INFO werkzeug  * Restarting with stat
+ 2023-02-19 11:43:44,311 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 11:43:44,316 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 11:43:54,133 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+ 2023-02-19 11:43:54,134 INFO werkzeug [33mPress CTRL+C to quit[0m
+ 2023-02-19 11:43:54,136 INFO werkzeug  * Restarting with stat
+ 2023-02-19 11:43:55,081 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 11:43:55,084 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 11:44:02,362 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:44:02] "GET / HTTP/1.1" 200 -
+ 2023-02-19 11:44:02,659 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:44:02] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:44:26,616 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:44:26] "POST /review HTTP/1.1" 200 -
+ 2023-02-19 11:44:26,634 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:44:26] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:45:06,758 INFO werkzeug  * Detected change in 'c:\\Users\\KALPANA\\OneDrive\\Desktop\\Projects\\project_3\\amazon.py', reloading
+ 2023-02-19 11:45:06,906 INFO werkzeug  * Restarting with stat
+ 2023-02-19 11:45:08,476 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 11:45:08,480 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 11:45:19,448 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+ 2023-02-19 11:45:19,449 INFO werkzeug [33mPress CTRL+C to quit[0m
+ 2023-02-19 11:45:19,451 INFO werkzeug  * Restarting with stat
+ 2023-02-19 11:45:20,518 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 11:45:20,518 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 11:45:25,545 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:45:25] "GET / HTTP/1.1" 200 -
+ 2023-02-19 11:45:25,879 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:45:25] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:45:45,956 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:45:45] "POST /review HTTP/1.1" 200 -
+ 2023-02-19 11:45:46,251 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:45:46] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:46:38,010 INFO werkzeug  * Detected change in 'c:\\Users\\KALPANA\\OneDrive\\Desktop\\Projects\\project_3\\amazon.py', reloading
+ 2023-02-19 11:46:38,150 INFO werkzeug  * Restarting with stat
+ 2023-02-19 11:46:39,626 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 11:46:39,630 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 11:46:49,400 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+ 2023-02-19 11:46:49,400 INFO werkzeug [33mPress CTRL+C to quit[0m
+ 2023-02-19 11:46:49,404 INFO werkzeug  * Restarting with stat
+ 2023-02-19 11:46:50,345 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 11:46:50,345 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 11:46:57,792 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:46:57] "GET / HTTP/1.1" 200 -
+ 2023-02-19 11:46:58,078 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:46:58] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:47:21,815 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:47:21] "POST /review HTTP/1.1" 200 -
+ 2023-02-19 11:47:21,844 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:47:21] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:47:57,814 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+ 2023-02-19 11:47:57,815 INFO werkzeug [33mPress CTRL+C to quit[0m
+ 2023-02-19 11:47:57,817 INFO werkzeug  * Restarting with stat
+ 2023-02-19 11:47:58,811 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 11:47:58,815 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 11:48:05,336 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:48:05] "GET / HTTP/1.1" 200 -
+ 2023-02-19 11:48:05,683 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:48:05] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:48:25,560 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:48:25] "POST /review HTTP/1.1" 200 -
+ 2023-02-19 11:48:25,585 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:48:25] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:49:06,155 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+ 2023-02-19 11:49:06,157 INFO werkzeug [33mPress CTRL+C to quit[0m
+ 2023-02-19 11:49:06,160 INFO werkzeug  * Restarting with stat
+ 2023-02-19 11:49:07,147 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 11:49:07,151 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 11:49:11,963 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:49:11] "GET / HTTP/1.1" 200 -
+ 2023-02-19 11:49:12,289 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:49:12] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:49:43,155 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:49:43] "POST /review HTTP/1.1" 200 -
+ 2023-02-19 11:49:43,179 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:49:43] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:50:09,960 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:50:09] "GET / HTTP/1.1" 200 -
+ 2023-02-19 11:50:10,350 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:50:10] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:50:10,494 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:50:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ 2023-02-19 11:50:33,986 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:50:33] "POST /review HTTP/1.1" 200 -
+ 2023-02-19 11:50:34,017 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:50:34] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:52:27,271 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+ 2023-02-19 11:52:27,271 INFO werkzeug [33mPress CTRL+C to quit[0m
+ 2023-02-19 11:52:27,274 INFO werkzeug  * Restarting with stat
+ 2023-02-19 11:52:28,293 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 11:52:28,293 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 11:52:37,037 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:52:37] "GET / HTTP/1.1" 200 -
+ 2023-02-19 11:52:37,598 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:52:37] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:52:37,670 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:52:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ 2023-02-19 11:52:57,893 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:52:57] "POST /review HTTP/1.1" 200 -
+ 2023-02-19 11:52:57,924 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:52:57] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:53:30,000 INFO werkzeug  * Detected change in 'c:\\Users\\KALPANA\\OneDrive\\Desktop\\Projects\\project_3\\amazon.py', reloading
+ 2023-02-19 11:53:30,120 INFO werkzeug  * Restarting with stat
+ 2023-02-19 11:53:31,602 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 11:53:31,605 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 11:53:43,146 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+ 2023-02-19 11:53:43,146 INFO werkzeug [33mPress CTRL+C to quit[0m
+ 2023-02-19 11:53:43,149 INFO werkzeug  * Restarting with stat
+ 2023-02-19 11:53:44,255 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 11:53:44,259 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 11:53:50,874 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:53:50] "GET / HTTP/1.1" 200 -
+ 2023-02-19 11:53:51,155 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:53:51] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:54:07,147 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:54:07] "POST /review HTTP/1.1" 200 -
+ 2023-02-19 11:54:07,172 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:54:07] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:54:26,223 INFO werkzeug  * Detected change in 'c:\\Users\\KALPANA\\OneDrive\\Desktop\\Projects\\project_3\\amazon.py', reloading
+ 2023-02-19 11:54:26,366 INFO werkzeug  * Restarting with stat
+ 2023-02-19 11:54:27,932 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 11:54:27,937 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 11:54:38,381 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+ 2023-02-19 11:54:38,382 INFO werkzeug [33mPress CTRL+C to quit[0m
+ 2023-02-19 11:54:38,383 INFO werkzeug  * Restarting with stat
+ 2023-02-19 11:54:39,366 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 11:54:39,369 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 11:54:45,091 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:54:45] "GET / HTTP/1.1" 200 -
+ 2023-02-19 11:54:45,379 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:54:45] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:55:06,582 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:55:06] "POST /review HTTP/1.1" 200 -
+ 2023-02-19 11:55:06,607 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:55:06] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:56:33,345 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+ 2023-02-19 11:56:33,346 INFO werkzeug [33mPress CTRL+C to quit[0m
+ 2023-02-19 11:56:33,350 INFO werkzeug  * Restarting with stat
+ 2023-02-19 11:56:34,394 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 11:56:34,400 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 11:56:41,188 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:56:41] "GET / HTTP/1.1" 200 -
+ 2023-02-19 11:56:41,561 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:56:41] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 11:57:03,213 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:57:03] "POST /review HTTP/1.1" 200 -
+ 2023-02-19 11:57:03,229 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 11:57:03] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 12:00:20,647 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+ 2023-02-19 12:00:20,649 INFO werkzeug [33mPress CTRL+C to quit[0m
+ 2023-02-19 12:00:20,655 INFO werkzeug  * Restarting with stat
+ 2023-02-19 12:00:22,214 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 12:00:22,220 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 12:00:26,440 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 12:00:26] "GET / HTTP/1.1" 200 -
+ 2023-02-19 12:00:28,030 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 12:00:28] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 12:00:28,233 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 12:00:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ 2023-02-19 12:00:52,193 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 12:00:52] "POST /review HTTP/1.1" 200 -
+ 2023-02-19 12:00:52,208 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 12:00:52] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 12:01:09,372 INFO werkzeug  * Detected change in 'c:\\Users\\KALPANA\\OneDrive\\Desktop\\Projects\\project_3\\amazon.py', reloading
+ 2023-02-19 12:01:09,663 INFO werkzeug  * Restarting with stat
+ 2023-02-19 12:01:11,746 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 12:01:11,750 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 12:01:22,862 INFO werkzeug  * Detected change in 'c:\\Users\\KALPANA\\OneDrive\\Desktop\\Projects\\project_3\\amazon.py', reloading
+ 2023-02-19 12:01:22,982 INFO werkzeug  * Restarting with stat
+ 2023-02-19 12:01:24,015 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 12:01:24,024 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 12:01:28,246 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+ 2023-02-19 12:01:28,246 INFO werkzeug [33mPress CTRL+C to quit[0m
+ 2023-02-19 12:01:28,248 INFO werkzeug  * Restarting with stat
+ 2023-02-19 12:01:29,193 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 12:01:29,193 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 12:01:37,353 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 12:01:37] "GET / HTTP/1.1" 200 -
+ 2023-02-19 12:01:37,711 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 12:01:37] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 12:01:56,507 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 12:01:56] "POST /review HTTP/1.1" 200 -
+ 2023-02-19 12:01:56,524 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 12:01:56] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 12:02:32,950 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+ 2023-02-19 12:02:32,950 INFO werkzeug [33mPress CTRL+C to quit[0m
+ 2023-02-19 12:02:32,953 INFO werkzeug  * Restarting with stat
+ 2023-02-19 12:02:34,773 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 12:02:34,778 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 12:02:41,114 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 12:02:41] "GET / HTTP/1.1" 200 -
+ 2023-02-19 12:02:41,336 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 12:02:41] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 12:03:01,870 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 12:03:01] "POST /review HTTP/1.1" 200 -
+ 2023-02-19 12:03:01,886 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 12:03:01] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 12:03:13,530 INFO werkzeug  * Detected change in 'c:\\Users\\KALPANA\\OneDrive\\Desktop\\Projects\\project_3\\amazon.py', reloading
+ 2023-02-19 12:03:13,649 INFO werkzeug  * Restarting with stat
+ 2023-02-19 12:03:15,333 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 12:03:15,338 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 12:03:19,994 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+ 2023-02-19 12:03:19,994 INFO werkzeug [33mPress CTRL+C to quit[0m
+ 2023-02-19 12:03:19,996 INFO werkzeug  * Restarting with stat
+ 2023-02-19 12:03:20,946 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 12:03:20,951 INFO werkzeug  * Debugger PIN: 431-239-934
+ 2023-02-19 12:03:30,673 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 12:03:30] "GET / HTTP/1.1" 200 -
+ 2023-02-19 12:03:31,036 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 12:03:31] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 12:03:53,794 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 12:03:53] "POST /review HTTP/1.1" 200 -
+ 2023-02-19 12:03:53,808 INFO werkzeug 127.0.0.1 - - [19/Feb/2023 12:03:53] "[36mGET /static/aamazon.css HTTP/1.1[0m" 304 -
+ 2023-02-19 12:06:58,735 INFO werkzeug [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+ 2023-02-19 12:06:58,738 INFO werkzeug [33mPress CTRL+C to quit[0m
+ 2023-02-19 12:06:58,743 INFO werkzeug  * Restarting with stat
+ 2023-02-19 12:07:01,459 WARNING werkzeug  * Debugger is active!
+ 2023-02-19 12:07:01,491 INFO werkzeug  * Debugger PIN: 431-239-934
